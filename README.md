@@ -19,6 +19,8 @@ Image Signature & Stamp
 Frontend Landing Page (Company Profile) Included
 and Many others
 
+![Lab Result](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FagJ77x9a4OKwB12CvYDU%2Fuploads%2FsurvK87LJsgMOuTSdwUi%2Fimage.png?alt=media&token=2e165f2c-bb9d-4872-9f71-9c49d4bfad67)
+
 Have a nice day 
 
 We're available to custom work support[@]kreatifmediasimrs.id.
