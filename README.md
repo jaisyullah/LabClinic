@@ -2,6 +2,9 @@
 Laboratory Clinical Pathology System
 Welcome to LMMS Documentation.
 
+Our Documentation :
+https://docs.kreatifmediasimrs.id/
+
 Features :
 Admission & Cashier
 Examination Management
