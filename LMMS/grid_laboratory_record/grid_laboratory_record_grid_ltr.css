@@ -1,0 +1,19 @@
+.css_trandate_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_trandate_grid_line {vertical-align: top;text-align: center;}
+.css_confirmdate_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_confirmdate_grid_line {vertical-align: top;text-align: center;}
+.css_finishdate_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_finishdate_grid_line {vertical-align: top;text-align: center;}
+.css_trancode_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_trancode_grid_line {vertical-align: top;text-align: left;}
+.css_regcode_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_regcode_grid_line {vertical-align: top;text-align: right;}
+.css_icdid_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_icdid_grid_line {vertical-align: top;text-align: right;}
+.css_id_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_grid_line {vertical-align: top;text-align: right;}
+.css_statusid_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_statusid_grid_line {vertical-align: top;text-align: right;}
+.css_birthdate_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_birthdate_grid_line {vertical-align: top;text-align: center;}
+.css_detail_grid_line {text-align: center;}

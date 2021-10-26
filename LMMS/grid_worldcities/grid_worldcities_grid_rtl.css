@@ -1,0 +1,12 @@
+.css_city_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_city_grid_line {vertical-align: top;text-align: right;}
+.css_lat_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_lat_grid_line {vertical-align: top;text-align: right;}
+.css_lng_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_lng_grid_line {vertical-align: top;text-align: right;}
+.css_country_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_country_grid_line {vertical-align: top;text-align: right;}
+.css_iso2_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_iso2_grid_line {vertical-align: top;text-align: right;}
+.css_city_ascii_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_city_ascii_grid_line {vertical-align: top;text-align: right;}

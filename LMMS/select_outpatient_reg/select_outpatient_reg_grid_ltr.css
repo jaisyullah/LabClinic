@@ -1,0 +1,22 @@
+.css_trancode_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_trancode_grid_line {vertical-align: top;text-align: left;}
+.css_patientid_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_patientid_grid_line {font-weight:bold;vertical-align: top;text-align: left;}
+.css_name_label {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_name_grid_line {text-align: center;}
+.css_deptid_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_deptid_grid_line {vertical-align: top;text-align: left;}
+.css_doctorid_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_doctorid_grid_line {vertical-align: top;text-align: left;}
+.css_regdate_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_regdate_grid_line {vertical-align: top;text-align: center;}
+.css_regtime_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_regtime_grid_line {vertical-align: top;text-align: center;}
+.css_queueno_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_queueno_grid_line {vertical-align: top;text-align: left;}
+.css_paymentid_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_paymentid_grid_line {vertical-align: top;text-align: left;}
+.css_statusid_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_statusid_grid_line {font-weight:bold;vertical-align: top;text-align: left;}
+.css_id_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_grid_line {vertical-align: top;text-align: right;}

@@ -1,0 +1,20 @@
+.css_date_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_date_grid_line {vertical-align: top;text-align: center;}
+.css_saleid_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_saleid_grid_line {vertical-align: top;text-align: right;}
+.css_paycode_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_paycode_grid_line {vertical-align: top;text-align: right;}
+.css_patientname_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_patientname_grid_line {vertical-align: top;text-align: right;}
+.css_curr1_label {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_curr1_grid_line {text-align: center;}
+.css_amount_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_amount_grid_line {vertical-align: top;text-align: right;}
+.css_curr2_label {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_curr2_grid_line {text-align: center;}
+.css_discount_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_discount_grid_line {vertical-align: top;text-align: right;}
+.css_type_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_type_grid_line {vertical-align: top;text-align: right;}
+.css_status_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_status_grid_line {font-weight:bold;vertical-align: top;text-align: right;}
