@@ -2,6 +2,8 @@
 Laboratory Clinical Pathology System
 Welcome to LMMS Documentation.
 
+![MainPage](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FagJ77x9a4OKwB12CvYDU%2Fuploads%2Fj0gRBbOMVFM2q2DUbnKO%2Fbg-sample-login-2.jpg?alt=media&token=785497db-e7ac-4835-a694-093609f1a1ee)
+
 Our Documentation :
 https://docs.kreatifmediasimrs.id/
 
